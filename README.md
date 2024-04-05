@@ -1,5 +1,5 @@
 # Jumong
-This repository hosts a bow game demo developed with Unity as part of a team project for VR/AR introduction and practice class.  
+This repository shows a bow game demo developed with Unity as part of a team project for VR/AR introduction and practice class.  
 It utilizes free models and animations from [Sketchfab](https://sketchfab.com/) and [Mixamo](https://www.mixamo.com/), and the background music was created using free music provided.  
 It was tested with **Oculus Quest 2**.  
 
